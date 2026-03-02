@@ -11,3 +11,9 @@ Plinka is an approach to creating Plinko. When running the code, colorful balls 
 This is something that I would consider continued work on; eventually taking it from a passive system to something more like pinball. 
 
 Coming out of the assignment, I went deep to learn vectors, especially how to handle them. On a previous approach to the assignment, I worked with Perlin Noise and feel that I have a good grasp on how to use it now. 
+
+## Assignment 
+* Create and control at least 100 "agents"
+  - At any single moment, there are anywhere from 90 to 100 "agents" stored in the agentArray.
+* Use randomness to influence agent properties -or- use noise to do the same
+* Add some type of mouse-based interaction to your sketch, influencing the agents
