@@ -10,6 +10,8 @@ Plinka is an approach to creating Plinko. When running the code, colorful pucks 
 
 Coming out of the assignment, I went deep to learn vectors, especially how to handle them. On a previous approach to the assignment, I worked with Perlin Noise and feel that I have a good grasp on how to use it now. 
 
+Addendum: I developed the p5 code using the Vivaldi browser. Running it on Chrome, I found out right away that the pucks were getting stuck between pegs. The adjustments I'm making to get it to work on Chrome also appear to make the system appear less random. 
+
 ## Assignment Requirments
 * Create and control at least 100 "agents"
   - At any single moment, there are anywhere from 90 to 100 static, pegs, and non-static, pucks, agents drawn on the canvas.
