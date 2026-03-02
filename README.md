@@ -23,3 +23,5 @@ Coming out of the assignment, I went deep to learn vectors, especially how to ha
   
 * Add some type of mouse-based interaction to your sketch, influencing the agents
   - Mouse clicks add more pucks at the mouse's position.
+
+* Also added complexity to the code by moving the agentOperations class to its own file.
